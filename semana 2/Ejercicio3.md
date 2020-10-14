@@ -19,4 +19,5 @@
    ![](./imgs/3.10.png)
 
 6.  Finalizamos con `re-stop`
+   
    ![](./imgs/3.11.png)
