@@ -26,35 +26,35 @@ Para crear la descripción de un módulo usando `package.json` se ha seguido [es
    "homepage": "https://github.com/PedroMFC/Autoevaluacion-CC#readme"
    }
    ```
-3. Pdemos incluir algunos campos más a modo de ejemplo como indica la guía mencionada.
+3. Podemos incluir algunos campos más a modo de ejemplo como indica la guía mencionada. Para ello, usamos `--save-dev` para que guarde directamente la configuración.
+4. 
+ ![](./imgs/2.2.png)
    ```json
    {
-   "name": "ejercicio2",
-   "version": "1.0.0",
-   "description": "prueba del ejercicio 2 de CC",
-   "main": "index.js",
-   "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
-   },
-   "repository": {
-      "type": "git",
-      "url": "git+https://github.com/PedroMFC/Autoevaluacion-CC.git"
-   },
-   "author": "Pedro Flores <pedro_23_96@hotmail.com> (/https://github.com/PedroMFC/Autoevaluacion-CC)",
-   "license": "GPL-3.0",
-   "bugs": {
-      "url": "https://github.com/PedroMFC/Autoevaluacion-CC/issues"
-   },
-   "homepage": "https://github.com/PedroMFC/Autoevaluacion-CC#readme",
-   
-   "dependencies": { 
-      "backbone": "1.0.0",
-      "lodash": "^4.6.1",
-      "mocha": "~3.5.3"
+      "name": "ejercicio2",
+      "version": "1.0.0",
+      "description": "prueba del ejercicio 2 de CC",
+      "main": "index.js",
+      "scripts": {
+         "test": "echo \"Error: no test specified\" && exit 1"
       },
-   "engines": { 
-      "node": "≥ 6.0.0",
-      "npm": "≥ 3.0.0"
+      "repository": {
+         "type": "git",
+         "url": "git+https://github.com/PedroMFC/Autoevaluacion-CC.git"
+      },
+      "author": "Pedro Flores <pedro_23_96@hotmail.com> (/https://github.com/PedroMFC/Autoevaluacion-CC)",
+      "license": "GPL-3.0",
+      "bugs": {
+         "url": "https://github.com/PedroMFC/Autoevaluacion-CC/issues"
+      },
+      "homepage": "https://github.com/PedroMFC/Autoevaluacion-CC#readme",
+      "engines": {
+         "node": "≥ 6.0.0",
+         "npm": "≥ 3.0.0"
+      },
+      "devDependencies": {
+         "backbone": "^1.4.0",
+         "lodash": "^4.17.20"
       }
    }
    ```
