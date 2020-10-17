@@ -58,3 +58,9 @@ Para crear la descripción de un módulo usando `package.json` se ha seguido [es
       }
    }
    ```
+
+ Para el proyecto de la asignatura, se ha decidio utilizar el lenguaje de programación `Go`. Como es un lenguaje con el que no he trabajado hasta ahora, se ha creado un proyecto que podríamos notar como auxiliar para "experimentar" en él la forma de trabajo del lenguaje y luego poder aplicarlo al proyecto principal. Toda la información está en el repositorio [prueba](https://github.com/PedroMFC/prueba). En Go, para trabajar con las dependencias se va a usar la herramientas [Go Modules](https://blog.golang.org/using-go-modules). De este modo, las dependencias del proyecto se guardan en el archivo `go.mod` que se puede consultar [aquí](https://github.com/PedroMFC/prueba/blob/main/go.mod) y que es de la siguiente forma (se ha incorporado una dependencia `rsc.io/quote` y a algunas herramientas de tests).
+
+ ![](./imgs/2.3.png)
+
+ ### NOTA: cuando se avance con el proyecto se incluirá la información en el ejercicio.
