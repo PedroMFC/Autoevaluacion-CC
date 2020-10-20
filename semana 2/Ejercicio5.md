@@ -1,4 +1,4 @@
-# 5. Rrealizar las siguientes tareas en el proyecto que se está trabajando:
+º# 5. Rrealizar las siguientes tareas en el proyecto que se está trabajando:
 ## a)  Darse de alta en Travis.
 ## b) Activar el repositorio en el que se vaya a aplicar la integración continua.
 ## c) Crear un fichero de configuración para que se ejecute la integración y añadirlo al repositorio.
@@ -17,4 +17,4 @@ Los enlaces consultados para la configuración han sido:
 * [Using Go modules with Travis CI](https://dave.cheney.net/2018/07/16/using-go-modules-with-travis-ci)
 
 
-### NOTA: cuando se avance con el proyecto se incluirá la información en el ejercicio.
+Para el proyecto principal [EvaluaUGR](https://github.com/PedroMFC/EvaluaUGR), el archivo de CI se encuentra [aquí](https://github.com/PedroMFC/EvaluaUGR/blob/main/.travis.yml).
