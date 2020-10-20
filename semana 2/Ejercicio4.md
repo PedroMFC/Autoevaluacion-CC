@@ -3,6 +3,7 @@
 Como se ha indicado en el [ejercicio2](https://github.com/PedroMFC/Autoevaluacion-CC/blob/main/semana%202/Ejercicio2.md), se va a comenzar explicando el trabajo con un [proyecto de pruebas](https://github.com/PedroMFC/prueba) que se completará cuando se haga en el proyecto principal. La información se ha obtenido de [este enlace](https://blog.golang.org/using-go-modules) con un uso básico de la librería estandar de GO y [este otro](https://bmuschko.com/blog/go-testing-frameworks/) donde explica algunos *frameworks* para los tests, donde destacamos [Testify](https://github.com/stretchr/testify) que sirve para las aserciones y *mocking* y [Ginkgo](https://github.com/onsi/ginkgo) que presenta el sistema *Behaviour Driven Development* que permiten describir los tests. Los tests se han divido en dos archivos donde los dos primeros mecanismos se han probado en [hello2_test.go](https://github.com/PedroMFC/prueba/blob/main/hello2_test.go) y `Ginkgo` en [hello_test.go](https://github.com/PedroMFC/prueba/blob/main/hello_test.go).
 
 Ejecutamos los test y se obtiene lo siguiente:
+
 ![](./imgs/4.1.png)
 ![](./imgs/4.2.png)
 
