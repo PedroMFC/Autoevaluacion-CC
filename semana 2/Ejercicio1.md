@@ -9,7 +9,7 @@ Se va a instalar el entorno virtual `nvm` de `node.js`. Para ello, se ha seguido
 ![](./imgs/1.2.png)
 Para ello, usamos el alias `node`.
 ![](./imgs/1.3.png)
-3. Instalamos la versión minos más actual de 4.x que es la 4.9.1 ([versiones de node.js](https://nodejs.org/es/download/releases/)).
+3. Instalamos la versión minor más actual de 4.x que es la 4.9.1 ([versiones de node.js](https://nodejs.org/es/download/releases/)).
    ![](./imgs/1.4.png)
 4. Lo mismos para 0.11.
    ![](./imgs/1.5.png)
