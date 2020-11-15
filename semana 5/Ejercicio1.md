@@ -27,3 +27,5 @@ Ejecutamos el siguiente ejemplo:
 
 
 ![](./imgs/1.5.png)
+
+A diferencia de `hello-world` que ya teníamos la images, en este caso vemos cómo se la tiene que descargar para poder ejecutarlo.

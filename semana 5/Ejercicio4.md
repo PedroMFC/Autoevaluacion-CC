@@ -3,7 +3,7 @@
 Para examinar las capas de la imagen anterior ejecutamos el comando 
 
 ```
-sudo jq '.' /var/lib/docker/image/overlay2/imagedb/content/sha256/0ab7a52240de9bd2d9531e2ba4a5e2c8c1bb5973f136fa5e667af638dfcd1efb
+sudo jq '.' /var/lib/docker/image/overlay2/imagedb/content/sha256/195c2bae9940943ed2869e244a1227064a5f366d70812e888c422490d3cc7837
 
 ```
 
