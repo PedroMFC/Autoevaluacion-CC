@@ -1,0 +1,1 @@
+# 6. Reproducir los contenedores creados anteriormente usando un `Dockerfile`.
