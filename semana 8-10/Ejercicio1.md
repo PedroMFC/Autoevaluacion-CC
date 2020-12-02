@@ -6,8 +6,9 @@ El lenguaje con el que estamos haciendo el proyecto es `Go`. Los enlaces consult
 * [Interacting with etcd](https://etcd.io/docs/v3.4.0/dev-guide/interacting_v3/)
 * [etcd in Go](https://github.com/etcd-io/etcd/tree/master/client/v3)
 * [godotenv](https://github.com/joho/godotenv)
-* [Solución error](https://github.com/etcd-io/etcd/issues/12484): no permite usar la última versión así que hay que hacer manualmente `go get ...`
-
+* [Solución error última versión etcd](https://github.com/etcd-io/etcd/issues/12484): no permite usar la última versión así que hay que hacer manualmente `go get ...`
+* [Ejemplos etcd en GO](https://pkg.go.dev/go.etcd.io/etcd/clientv3)
+  
 Tras ejecutar la instalación, vemos la versión y que está activo
 
 ![](./imgs/1.1.png)
