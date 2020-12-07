@@ -15,3 +15,5 @@ app.get('/helloworld', function (req, res) {
 
 app.listen(port);
 console.log('Server running at http://127.0.0.1:'+port+'/');
+
+module.exports = app;
