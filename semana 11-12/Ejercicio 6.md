@@ -1,0 +1,3 @@
+# 6 Usar rake, invoke o la herramienta equivalente en tu lenguaje de programación para programar diferentes tareas que se puedan lanzar fácilmente desde la línea de órdenes.
+
+En nuestro proyecto de la asignatura de se está usando `Go`. Para programar diferentes tareas y lanzarlas desde las línea de órdenes e usa la herramienta [Task](https://taskfile.dev/#/). Se pueden consultar las tareas en el archivo [Taskfile.yml](https://github.com/PedroMFC/EvaluaUGR/blob/main/Taskfile.yml).
