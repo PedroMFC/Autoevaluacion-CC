@@ -1,3 +1,7 @@
+#!/usr/bin/env node
+
+// Lo anterior es para poder usar systemd
+
 var express=require('express');
 var app = express();
 var port = process.env.PORT || 8080;
