@@ -5,4 +5,5 @@ Ejercicios de Autoevaluación de la la aisgnatura Cloud Computing. Para acceder 
 * [Desarrollo basado en pruebas e Integración Continua](https://github.com/PedroMFC/Autoevaluacion-CC/tree/main/semana%202): estos ejercicios se hicieron antes de que se cambiara la estructura de temas. Así, los ejercicios 1 a 4 corresponden a TDD y el resto a CI.
 * [Dockerfile I](https://github.com/PedroMFC/Autoevaluacion-CC/tree/main/semana%205) : ejercicios del 1 al 4.
 * [Dockerfile II](https://github.com/PedroMFC/Autoevaluacion-CC/tree/main/semana%206-7) : ejercicios del 5 al 7.
-* [Microservicios](https://github.com/PedroMFC/Autoevaluacion-CC/tree/main/semana%208-10).
+* [Microservicios](https://github.com/PedroMFC/Autoevaluacion-CC/tree/main/semana%208-10): ejercicios del 1 al 4.
+* [Microservicios II](https://github.com/PedroMFC/Autoevaluacion-CC/tree/main/semana%2011-12): ejercicios del 5 al 6.
