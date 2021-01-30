@@ -10,14 +10,4 @@ Vamos a construirlo y ver que funciona:
 
 ![](./imgs/7.3.png)
 
-Construimos ahora el cliente que va a hacer de *frontend*. Para ver cómo hacer peticiones HTTP desde `Go` se ha usado [esta página](https://blog.logrocket.com/making-http-requests-in-go/). En este caso, la información se encuentra en [backend](./microframework/frontend).
-
-PROBLEMA: Sale lo siguiente en el terminal cuando ejecuto el docker del cliente
-
-```
-Get https://localhost:8080/ping&quot;: dial tcp 127.0.0.1:8080: connect: connection refused
-```
-
-Pero si ejecuto el programa que no está dentro del ordenador me funciona.
-
-
+NOTA: lo completamos más adelante en un ejercicio correspondiente a la semana 14-16
